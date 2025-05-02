@@ -1,0 +1,17 @@
+
+## Output
+
+- The script displays:
+- RMSE for both training and test sets
+- A plot comparing:
+ - Original passenger data
+ - Predicted values on training data
+ - Predicted values on test data
+
+## Project Structure
+
+- `AirPassengers.csv` - Dataset file
+- `air_passengers_lstm.py` - Python script with the model and preprocessing
+- `README.md` - Project documentation
+
+
