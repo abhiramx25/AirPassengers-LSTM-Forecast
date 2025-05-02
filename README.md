@@ -24,10 +24,5 @@ This project implements a Long Short-Term Memory (LSTM) neural network for time 
   - Two LSTM layers with 50 units each
   - Dense output layer
 - Time Steps: 10 (sliding window approach)
-- Optimizer: Adam
 - Loss Function: Mean Squared Error (MSE)
 
-## How to Run
-
-1. Clone the repository or download the files.
-2. Install the required libraries:
